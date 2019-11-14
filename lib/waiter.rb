@@ -27,5 +27,5 @@ class Waiter
       meal_a.tip <=> meal_b.top
     end
   end
-  
+
 end
